@@ -1,0 +1,12 @@
+.header{
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+.header p{
+    text-decoration: none;
+    float: left;
+    text-align: center;
+    font-size: 18px;
+    padding: 8px;
+}

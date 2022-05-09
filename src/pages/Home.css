@@ -1,0 +1,37 @@
+.styled-table{
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    margin-top: 70px;
+}
+
+
+.tabel1{
+    padding: 10px 10px ;
+}
+
+td{
+    text-align: center ;
+    font-size: 20px;
+}
+
+button{
+    margin: 0px 10px;
+    padding:8px 20px;
+    border:2px solid black;
+    border-radius: 25px;
+    font-size: 25;
+    font-weight: 600;
+}
+
+.btn-edit{
+    background-color: rgb(226, 184, 105);
+}
+
+.btn-delete{
+    background-color: rgb(219, 76, 76);
+}
+
+.btn-view{
+    background-color: greenyellow;
+}
